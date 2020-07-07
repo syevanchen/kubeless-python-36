@@ -1,0 +1,1 @@
+FROM kubeless/python:3.6
